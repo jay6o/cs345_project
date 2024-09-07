@@ -1,13 +1,25 @@
 {
   "name": "cs345_project",
   "version": "1.0.0",
-  "description": "### Playing online",
-  "main": "index.js",
+  "description": "Shogun's Last Stand",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "contributors": [
+                    { 
+                      "name": "Joey Pabalan",
+                      "github": "https://github.com/jplnb"
+                    },
+                    {
+                      "name": "Jonathan Urias",
+                      "github": "https://github.com/jay6o"
+                    },
+                    {
+                      "name": "Joseph Kabesha",
+                      "github": "https://github.com/Giltson1"
+                    }
+                  ],
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
   }
