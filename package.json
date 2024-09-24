@@ -1,0 +1,34 @@
+{
+  "name": "cs345_project",
+  "version": "1.0.0",
+  "description": "Shogun's Last Stand",
+  "scripts": {
+    "test": "jest"
+  },
+  "contributors": [
+                    {
+                      "name": "Jared Gonzalez",
+                      "github": "https://github.com/jarexgonz"
+                    },
+                    { 
+                      "name": "Joey Pabalan",
+                      "github": "https://github.com/jplnb"
+                    },
+                    {
+                      "name": "Jonathan Urias",
+                      "github": "https://github.com/jay6o"
+                    },
+                    {
+                      "name": "Joseph Kabesha",
+                      "github": "https://github.com/Giltson1"
+                    },
+                    {
+                      "name": "Tyler Avery",
+                      "github": "https://github.com/TylerAvery"
+                    }
+                  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

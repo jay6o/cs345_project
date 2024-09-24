@@ -10,12 +10,10 @@
 
 - Tilemap
     - Logic map (collisions & boundaries)
-
 - Sprites
     - Player sprites
     - Enemy sprites
-
-- character object
+- Character object
     - Player subclass
     - Enemy subclass
 

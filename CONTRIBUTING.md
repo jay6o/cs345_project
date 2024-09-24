@@ -30,4 +30,4 @@ Make sure you have git installed and can use it on your terminal/command prompt
 
 - After pushing to `feature-branch` open a **pull request** on GitHub (website)
 
-After you have made a PR, your code will be reviewed. If there are any concerns by your team-members, fix them. Then your code will be pushed to the **main** branch and the **feature_branch** will be deleted.
+After you have made a PR, your code will be reviewed. If there are any concerns by your team-members, fix them. Then your code will be pushed to the **main** branch and the **feature-branch** will be deleted.
