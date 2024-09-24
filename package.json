@@ -6,6 +6,10 @@
     "test": "jest"
   },
   "contributors": [
+                    {
+                      "name": "Jared Gonzalez",
+                      "github": "https://github.com/jarexgonz"
+                    },
                     { 
                       "name": "Joey Pabalan",
                       "github": "https://github.com/jplnb"
@@ -17,6 +21,10 @@
                     {
                       "name": "Joseph Kabesha",
                       "github": "https://github.com/Giltson1"
+                    },
+                    {
+                      "name": "Tyler Avery",
+                      "github": "https://github.com/TylerAvery"
                     }
                   ],
   "license": "MIT",
